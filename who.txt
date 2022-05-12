@@ -1,0 +1,171 @@
+
+
+
+	Here we are team working for you to help you to find your needed blood. 
+	We, three students from North South University of Dept. of CSE 221, are -
+
+	MD. Nazmul Islam Sihan, Md. Kamrul Islam, Md. Mubtasin Hasnat Sihab. 
+
+
+	You can donate blood or get blood whenever you need by following some simple steps. 
+
+	Here we are, always at your service. If you dont understand something you can contact with our 
+	service teams by following contacts.
+
+
+
+	# What is blood banking?
+	
+	=>
+
+	   Blood banking is the process that takes place in the lab to make sure that donated blood or blood products
+	   are safe before they are used in blood transfusions and other medical procedures. Blood banking includes
+	   typing the blood for transfusion and testing for infectious diseases.
+
+
+
+	# Facts about blood banking :
+	
+	According to the American Association of Blood Banks as of 2013:
+
+	 - About 36,000 units of blood are needed every day.
+
+         - The number of blood units donated is about 13.6 million a year.
+
+	 - About 6.8 million volunteers are blood donors each year.
+
+	 - Each unit of blood is broken down into components, such as red blood cells, plasma, cryoprecipitated AHF,
+	   and platelets. One unit of whole blood, once it's separated, may be transfused to several patients,
+	   each with different needs.
+
+	 - Annually, more than 21 million blood components are transfused.
+
+
+
+
+	# Who are the blood donors?
+
+	=>
+
+	   Most blood donors are volunteers. However, sometimes, a patient may want to donate blood a couple of weeks
+	   before undergoing surgery, so that his or her blood is available in case of a blood transfusion.
+	   Donating blood for yourself is called an autologous donation. Volunteer blood donors must pass certain
+	   criteria, including the following :
+
+		* Must be at least 16 years of age, or in accordance with state law   
+
+		* Must be in good health
+
+		* Must weigh at least 110 pounds
+
+		* Must pass the physical and health history exam given before donation
+
+	   Some states permit people younger than 16 or 17 years to donate blood, with parental consent.
+
+
+
+
+	# What tests are done in blood banking?
+
+	=>
+
+     	  A certain set of standard tests are done in the lab once blood is donated.
+	  Including, but not limited to, the following:
+
+ 	   * Typing: ABO group (blood type)
+
+ 	   * Rh typing (positive or negative antigen)
+
+	   * Screening for any unexpected red blood cell antibodies that may cause problems in the recipient
+
+	   * Screening for current or past infections, including:
+
+	   * Hepatitis viruses B and C
+
+	   * Human immunodeficiency virus (HIV)
+
+	   * Human T-lymphotropic viruses (HTLV) I and II
+
+	   * Syphilis
+
+	   * West Nile virus
+
+	   * Chagas disease 
+
+	   * Irradiation to blood cells is performed to disable any T-lymphocytes present in the donated blood.
+	    (T-lymphocytes can cause a reaction when transfused, but can also cause graft-versus-host problems
+	    with repeated exposure to foreign cells.)
+
+	   * Leukocyte-reduced blood has been filtered to remove the white blood cells that contain antibodies 
+	    that can cause fevers in the recipient of the transfusion. (These antibodies, with repeated transfusions,
+	    may also increase a recipient's risk of reactions to subsequent transfusions.)
+
+
+
+
+	# What are the blood types?
+	
+	=>
+
+	   According to the American Association of Blood Banks, distribution of blood types in the U.S. 
+	   includes the following :
+	
+			O Rh-positive - 39%
+
+			A Rh-positive - 31%
+
+			B Rh-positive - 9%
+
+			O Rh-negative - 9%
+
+			A Rh-negative - 6%
+
+			AB Rh-positive - 3%
+
+			B Rh-negative - 2%
+
+			AB Rh-negative - 1%
+
+
+
+
+	# What are the components of blood?
+
+	=>
+
+	   While blood, or one of its components, may be transferred, each component serves many functions,
+	   including the following:
+
+		Red blood cells : 
+
+			These cells carry oxygen to the tissues in the body and are commonly used in the 
+			treatment of anemia.
+
+		Platelets : 
+
+			They help the blood to clot and are used in the treatment of leukemia and other 
+			forms of cancer.
+
+		White blood cells : 
+
+			These cells help to fight infection, and aid in the immune process.
+
+		Plasma: 
+
+			The watery, liquid part of the blood in which the red blood cells, white blood cells,
+			and platelets are suspended. Plasma is needed to carry the many parts of the blood
+			through the bloodstream. Plasma serves many functions,
+			including the following:
+
+				       * Helps to maintain blood pressure.
+
+				       * Provides proteins for blood clotting.
+
+				       * Balances the levels of sodium and potassium.
+
+		Cryoprecipitate AHF : 
+
+			The portion of the plasma that contains clotting factors that help to control bleeding.
+
+		Albumin,immune globulins, and clotting factor concentrates may also be separated and processed
+		for transfusions.
